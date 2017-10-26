@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SizeSwitchView">
+        <attr name="smallWidth" format="dimension"/>
+        <attr name="smallHeight" format="dimension"/>
+        <attr name="bigWidth" format="dimension"/>
+        <attr name="bigHeight" format="dimension"/>
+    </declare-styleable>
+</resources>
